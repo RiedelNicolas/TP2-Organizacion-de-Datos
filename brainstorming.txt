@@ -4,9 +4,6 @@
 - usar pares de palabras con menor % veracidad
 - @, ¿?, ¡! tienden a ser falsos
 - usar keywords con mayot % veracidad
-- usar pares de keywords con mayor % veracidad
 - usar keywords con menor % veracidad
-- usar pares de keywords con menor % veracidad
 - locaciones + y - veraces
-
 - longitud
