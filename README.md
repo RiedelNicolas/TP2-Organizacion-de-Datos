@@ -1,4 +1,4 @@
-# TP2-Organizacion-de-Datos
+# Trabajo Practico 2 Organizacion de Datos
 
 Trabajo Practico 2 de la materia Organizacion de Datos (75.06) - Fiuba. 
 
