@@ -7,7 +7,7 @@ El objetivo del presente trabajo práctico es elaborar un modelo de machine lear
  
  ## Informe 📖
 
-Puede acceder al informe del trabajo en el siguiente link a  [overleaf](https://es.overleaf.com/project/5f2432426d71ed0001873822)
+Puede acceder al informe del trabajo en el siguiente link a  [overleaf](https://es.overleaf.com/read/zzcyzntkbsgf)
 
  
 ## Integrantes ✒️
