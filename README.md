@@ -1,6 +1,4 @@
-# Trabajo Practico 2 Organizacion de Datos
-
-Trabajo Practico 2 de la materia Organizacion de Datos (75.06) - Fiuba. 
+# Trabajo Practico 2 Organizacion de Datos (75.06)
 
 El objetivo del presente trabajo práctico es elaborar un modelo de machine learning capaz de predecir si un Tweet trata sobre un desastre/tragedia real. 
  Las predicciones realizadas para el set de test fueron subidas a la página Kaggle, más específicamente a la competencia ["Real or Not? NLP with Disaster Tweet"](https://www.kaggle.com/c/nlp-getting-started/leaderboard)
